@@ -1,0 +1,9 @@
+
+e
+java:S1192 "JDefine a constant instead of duplicating this literal "login.jsp" 3 times.(—é•ıüÿÿÿÿ
+a
+java:S1192("KDefine a constant instead of duplicating this literal "redirect:/" 4 times.(äÔ¶½
+b
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(«šÿøÿÿÿÿÿ8óå•°ï0
+\
+java:S2441H":Make "User" serializable or don't store it in the session.(£™Õàûÿÿÿÿ8õå•°ï0
